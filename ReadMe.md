@@ -15,6 +15,7 @@ Answer: Cross-Browser testing: BBC is widely used in entire world and everybody 
 Parallel testing: BBC is a huge website with lot's of functions, we are talking about at least 350 test cases, definetly would need a paralle testing, with selenium-grid
 
 Test data: I would definetly use TestNG, data provider for all of the users in the databases, just to keep up with all users if their account is working or not, also to check.
+Or just use Cucumber tables where we pretty much give every users details and run it over and over again.
 
 Performance testing: I would definetly record test cases in chrome then put them onto Jmeter, as performance testing is very important.
 
